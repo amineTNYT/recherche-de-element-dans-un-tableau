@@ -1,6 +1,7 @@
 
 🔍 Recherche Dichotomique - Explication Simple
 📖 C'est quoi ?
+
 La recherche dichotomique, c'est comme chercher un mot dans le dictionnaire :
 
 📖 On ouvre le dictionnaire au milieu
