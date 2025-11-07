@@ -16,11 +16,17 @@ La recherche dichotomique, c'est comme chercher un mot dans le dictionnaire :
 Le tableau DOIT être trié du plus petit au plus grand
 
 ✅ Bon exemple (tableau trié) :
+
+
 python
 T = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
 ❌ Mauvais exemple (tableau mélangé) :
 python
+
+
 T = [50, 10, 90, 20, 70, 30, 100, 40, 80, 60]
+
+
 → Les nombres sont dans le désordre, la recherche ne marche pas
 
 🎯 Comment ça marche ?
