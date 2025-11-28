@@ -42,5 +42,5 @@ Cherchons le nombre 70 dans :
 ✅ On trouve 70 ! Succès
 
 
-[_recherche dichotomique_algo.docx](https://github.com/user-attachments/files/23421580/_recherche.dichotomique_algo.docx)
+ telecharger l'algorithme:  [_recherche dichotomique_algo.docx](https://github.com/user-attachments/files/23421580/_recherche.dichotomique_algo.docx)
 
