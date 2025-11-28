@@ -13,21 +13,20 @@ La recherche dichotomique, c'est comme chercher un mot dans le dictionnaire :
 🔁 On répète jusqu'à trouver
 
 ⚠️ La Règle Importante
-Le tableau DOIT être trié du plus petit au plus grand
+Le tableau DOIT être trié (croissant ou décroissant)
 
 ✅ Bon exemple (tableau trié) :
 
 
-python
-T = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-❌ Mauvais exemple (tableau mélangé) :
-python
 
+### python
+T = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+✅ Bon exemple (tableau trié) : la recherche **marche**
 
 T = [50, 10, 90, 20, 70, 30, 100, 40, 80, 60]
 
 
-→ Les nombres sont dans le désordre, la recherche ne marche pas
+→❌ Les nombres sont dans le désordre(tableau mélangé), la recherche **ne marche pas**
 
 🎯 Comment ça marche ?
 Cherchons le nombre 70 dans :
